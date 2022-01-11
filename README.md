@@ -1,7 +1,7 @@
 #Main Functionality
+
 I described most of the functionality in Russian.Also I created my custom validation,so 
 then you can find out about it also in the file my.validators.ts
-
 
 # AngularBasics
 
